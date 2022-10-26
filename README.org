@@ -1,0 +1,11 @@
+#+title: i3wm config
+
+* Why another dotfiles?
+Lately I lost interest on ricing my machine, I think that I've spend to much time on that with the result that I'm never satisfied.
+So why another dots for i3?
+For the last month I've used gnome and after changing some keybindings, and also add some autostart, I can use it.
+The problem is that emacs crash to often on wayland and if I'm obligated to use Xorg I will use wm.
+I3 is always reliable, I think I've made this config in less than 15 minutes.
+It's not good enough for /Uniporn/, but it's very usable.
+Until Emacs will become stable (I've compiled fro source and I could have made some major bullshit, but on Xorg don't crash so...) on wayland I stick with Xorg.
+When emacs will be ready I will try again with something like hyperland or sway.
